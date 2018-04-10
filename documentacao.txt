@@ -1,0 +1,35 @@
+///////////////////
+DESENVOLVIDO POR CESAR CARVALHO - cesar@projeto7.com - ##
+//////////////////
+
+Documentação:
+Este sistema tem como função auxiliar a recepção de empresas para cadastro temporario ou fixo de visitantes ou pessoas que frequentam diariamente o local.
+cadastrando seus dados e ficando inseridos em arquivo de textos, de extensão TXT
+Excelete para empresas, escolas, portaria de prédios ou condominios.
+
+Conteudos:
+Arquivo de entrada para logar com usuarios autenticado para registrar...este usuario será global, unico para todos os moentos.
+
+Arquivos:
+autorizado.php = página de acesso aos recursos do cadastro.
+cadastrar.php = página de cadastro do usuarios ao arquivo txt.
+entrar.php = tela de login para ter acesso.
+gravar.php = arquivo de gravação do usuario cadastrado.
+index.php = tela inicial do sistema.
+listar.php = pagina para listar os usuarios cadastrados no arquivo txt
+protegido.php = página de proteção para acesso a tela de administrador.
+sair.php = tela de logout para sair do sistema.
+seguranca.php = página de segurança para acesso de usuarios admin.
+
+dados de acesso:
+usuario: admin
+senha: admin
+
+tela que vai listar usuarios cadastrados.
+tela de cadastro de usuarios com os dados básicos.
+
+
+------------
+requisitos de intalação.
+Não existe instalação, faça o cadastro em nosso site e você irá ter um espaço reservado para você usar os sistemas livres sem limitação.
+
